@@ -1,0 +1,18 @@
+
+#side_bar{
+    background-color: whitesmoke;
+    padding: 50px;
+    width: 300px;
+    height: 450px;
+}
+#main_content h3{
+    text-align: center;
+}
+.error-msg{
+    color: red;
+    
+}
+#user_data{
+    color: white;
+    font-weight: bold;
+}
